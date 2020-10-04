@@ -1,20 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Traffic Driving Instructor
 image: /img/fish-2638627__480.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: The essential techniques made easy
+subheading: Support the client that helps you successfully pass your drivers license
 mainpitch:
-  title: Why not kali
+  title: Why Micah?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Our teaching focuses on the essential knowledge and principles needed to
+    drive safely on the road. 
+description: "We can guide you from an absolute beginner to a certified driver
+  in a span of two weeks. Get in touch with us now. We will help make it happen.
+  Apply on online and recieve a 20% discount! On all our services. This will be
+  valid for now until 24th December 2020 22:00pm GMT. Start today and get ready
+  to drive on the road like a boss. "
 intro:
   blurbs:
     - image: /img/coffee.png
