@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Traffic Driving Instructor
-image: /img/fish-2638627__480.png
+image: /img/learner-licence_0.jpg
 heading: The essential techniques made easy
 subheading: Support the client that helps you successfully pass your drivers license
 mainpitch:
